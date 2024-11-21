@@ -61,7 +61,7 @@ export interface TextProps {
 
 Usage
 
-```jsx
+```ts
 const text = Text({
   text: 'Hello World',
 })
