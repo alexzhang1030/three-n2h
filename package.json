@@ -1,7 +1,7 @@
 {
   "name": "three-n2h",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@9.13.2",
   "description": "Three.js nice to have things",
   "author": "alexzhang1030",
