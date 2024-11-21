@@ -21,6 +21,10 @@
     ".": {
       "import": "./dist/index.js",
       "require": "./dist/index.cjs"
+    },
+    "./text": {
+      "import": "./dist/text.js",
+      "require": "./dist/text.cjs"
     }
   },
   "main": "./dist/index.cjs",
