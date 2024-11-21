@@ -16,7 +16,7 @@ pnpm i three-n2h
 
 ### Text
 
-[drei counterpart](https://github.com/pmndrs/drei#text)
+[drei counterpart](https://drei.docs.pmnd.rs/abstractions/text#text)
 
 Hi-quality text rendering w/ signed distance fields (SDF) and antialiasing, using [troika-3d-text](https://github.com/protectwise/troika/tree/master/packages/troika-3d-text). All of troikas props are valid!
 
