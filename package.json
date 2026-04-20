@@ -52,9 +52,9 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^8.2.0",
-    "@types/three": "^0.183.1",
+    "@types/three": "^0.184.0",
     "bumpp": "^11.0.1",
-    "eslint": "^10.2.0",
+    "eslint": "^10.2.1",
     "lint-staged": "^16.4.0",
     "simple-git-hooks": "^2.13.1",
     "tsup": "^8.5.1",
