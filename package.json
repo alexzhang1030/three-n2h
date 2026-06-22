@@ -2,7 +2,7 @@
   "name": "three-n2h",
   "type": "module",
   "version": "0.1.1",
-  "packageManager": "pnpm@10.34.3",
+  "packageManager": "pnpm@10.34.4",
   "description": "Three.js nice to have things",
   "author": "alexzhang1030",
   "license": "MIT",
@@ -55,12 +55,12 @@
     "@types/three": "^0.184.1",
     "bumpp": "^11.1.0",
     "eslint": "^10.5.0",
-    "lint-staged": "^17.0.7",
+    "lint-staged": "^17.0.8",
     "simple-git-hooks": "^2.13.1",
     "tsup": "^8.5.1",
     "tsx": "^4.22.4",
     "typescript": "^5.9.3",
-    "vitest": "^4.1.8"
+    "vitest": "^4.1.9"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged"
