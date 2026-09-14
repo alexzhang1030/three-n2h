@@ -2,7 +2,7 @@
   "name": "three-n2h",
   "type": "module",
   "version": "0.1.2",
-  "packageManager": "pnpm@11.24.0",
+  "packageManager": "pnpm@12.4.1",
   "description": "Three.js nice to have things",
   "author": "alexzhang1030",
   "license": "MIT",
